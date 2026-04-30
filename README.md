@@ -4,6 +4,7 @@
 🛡️ Aspiring SOC Analyst | Cyber Security Engineering Student<br>Passionate about Blue Team operations, threat detection, and real-time security monitoring. I work with tools like Splunk, Wazuh, and Wireshark to analyze logs, investigate network traffic, and simulate SOC environments.<br>Currently sharpening my skills in SIEM, log correlation, and security automation with Python — on a mission to defend systems before attackers find the door open.
 
 
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/PXdfHe4J8) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thelonesan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/mohamed-ibrahim-h-585b92282) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)][![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/venomwhisper) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/ibrahim_1207) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/CybrxIbrahim) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ibrahim.cybrx@gmail.com) 
 
