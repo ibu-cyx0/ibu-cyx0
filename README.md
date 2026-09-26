@@ -243,7 +243,7 @@ Raw Alerts ──► Feature Extraction ──► Random Forest ──► Verdic
 [2025] ── Cisco Cyber Ops Associate ............................. [ CERTIFIED ✓ ]
 [2025] ── SOC Home Lab (Splunk + Wazuh) ......................... [ COMPLETE ✓ ]
 [2025] ── Network Traffic Analysis (Wireshark) .................. [ COMPLETE ✓ ]
-[2024] ── B.E. Cyber Security — Paavai Engineering College ....... [ ONGOING  ⟳ ]
+[2026] ── B.E. Cyber Security — Paavai Engineering College ....... [ COMPLETE ✓ ]
 ```
 
 ---
