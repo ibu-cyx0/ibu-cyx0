@@ -19,7 +19,7 @@
 
 <br/>
 
-[![Visits](https://img.shields.io/badge/PROFILE%20VIEWS-3245-00d4ff?style=flat-square)](https://github.com/ibu-cyx0)
+[![Visits](https://hits.sh/github.com/ibu-cyx0.svg?style=flat-square&label=PROFILE%20VIEWS&color=00d4ff)](https://github.com/ibu-cyx0)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-IbrahimCyb3r4-212C42?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/IbrahimCyb3r4)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-ibrahim-h-585b92282)
 [![Email](https://img.shields.io/badge/Email-ibrahim.cybrx%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ibrahim.cybrx@gmail.com)
