@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="490" height="278" viewBox="0 0 490 278">
+<style>text{font-family:"Fira Code",Consolas,monospace;font-size:12px;fill:#c8d8e8}.k{font-weight:bold}.l{opacity:0;animation:in .45s ease-out forwards}@keyframes in{from{opacity:0;transform:translateX(-8px)}to{opacity:1;transform:none}}</style>
+<rect width="490" height="278" rx="8" fill="#0d1117" stroke="#30363d"/>
+<rect width="490" height="28" rx="8" fill="#161b22"/>
+<circle cx="16" cy="14" r="5" fill="#ff5f56"/><circle cx="34" cy="14" r="5" fill="#ffbd2e"/><circle cx="52" cy="14" r="5" fill="#27c93f"/>
+<text x="245" y="18" text-anchor="middle" style="fill:#8b949e">ibu-cyx0@soc-workstation: ~</text>
+<text x="16" y="50" style="fill:#00ff88">$ neofetch</text>
+<g class="l" style="animation-delay:0.30s"><text class="k" x="16" y="76" style="fill:#00d4ff">Now</text><text x="120" y="76">SOC Analyst | Blue Team | Detection &amp; Response</text></g>
+<g class="l" style="animation-delay:0.55s"><text class="k" x="16" y="100" style="fill:#7c3aed">Prev</text><text x="120" y="100">SOC Analyst Intern @ The Mind IT (Jan-Apr 2026)</text></g>
+<g class="l" style="animation-delay:0.80s"><text class="k" x="16" y="124" style="fill:#00ff88">Education</text><text x="120" y="124">B.E. Cyber Security, Paavai Engineering College</text></g>
+<g class="l" style="animation-delay:1.05s"><text class="k" x="16" y="148" style="fill:#ffb86c">Stack</text><text x="120" y="148">Splunk, Wazuh, Sentinel, Defender, ELK, Python</text></g>
+<g class="l" style="animation-delay:1.30s"><text class="k" x="16" y="172" style="fill:#00d4ff">Certs</text><text x="120" y="172">CSA, EHE, Splunk Core User, Cisco CyberOps</text></g>
+<g class="l" style="animation-delay:1.55s"><text class="k" x="16" y="196" style="fill:#7c3aed">Recognition</text><text x="120" y="196">Wazuh Ambassador (Jun 2026)</text></g>
+<g class="l" style="animation-delay:1.80s"><text class="k" x="16" y="220" style="fill:#00ff88">TryHackMe</text><text x="120" y="220">Top 5% globally, 30+ rooms</text></g>
+<g class="l" style="animation-delay:2.05s"><text class="k" x="16" y="244" style="fill:#ffb86c">Highlights</text><text x="120" y="244">CTI automation, ML alert triage, SOC home lab</text></g>
+</svg>

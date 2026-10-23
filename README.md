@@ -28,30 +28,52 @@
 
 ---
 
-<img align="right" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDhib2gwNmRsOW9pbG44amtxdXMxZGJib2l2dW5wZXVjbGljaHhvayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/077i6AULCXc0FKTj9s/giphy.gif"/>
+<div align="center">
 
-## `whoami`
+<h3><code>ibu-cyx0@github ~ $ whoami</code></h3>
+
+<img src="./ascii-portrait.svg" width="640" alt="ASCII portrait" />
+
+<br><br>
+
+<img src="./info-card.svg" width="490" alt="neofetch info card" />
+
+<br>
+
+<h3><code>ibu-cyx0@github ~ $ ./contributions.sh</code></h3>
+<img src="./contrib-heatmap.svg" width="860" alt="Contribution heatmap" />
+
+</div>
+
+---
+
+## `cat profile.txt`
 
 ```bash
 ┌──[ibu-cyx0@soc-workstation]─[~]
 └─$ cat profile.txt
 
 Name     : Mohamed Ibrahim H
-Role     : Aspiring SOC Analyst
+Role     : SOC Analyst | Blue Team
 Location : Tamil Nadu, India
-Focus    : Blue Team | Threat Detection
+Focus    : Threat Detection | Incident Response
 Status   : 🟢 Actively Hunting Threats
+
+Experience:
+  ✅ SOC Analyst Intern, The Mind IT (Jan–Apr 2026)
 
 Certifications:
   ✅ EC-Council Certified SOC Analyst (CSA)
+  ✅ EC-Council Ethical Hacking Essentials (EHE)
   ✅ Splunk Core Certified User
-  ✅ Cisco Cyber Ops Associate
+  ✅ Cisco CyberOps Associate
+  ✅ Wazuh Ambassador (Certificate of Recognition)
+
+Rank     : TryHackMe Top 5% globally
 
 Mission  : Defend systems before attackers
            find the door open.
 ```
-
-<br clear="right"/>
 
 ---
 
@@ -63,17 +85,19 @@ Mission  : Defend systems before attackers
 
 **🛡️ Security Operations**
 ```
-Security Monitoring    ████████████  Expert
+Security Monitoring    ███████████░  Advanced
 Threat Detection       ███████████░  Advanced
 Incident Response      ██████████░░  Advanced
-Log Analysis           ████████████  Expert
+Log Analysis           ███████████░  Advanced
 Threat Intelligence    █████████░░░  Intermediate
 Vulnerability Mgmt     ████████░░░░  Intermediate
 ```
 
 **📡 SIEM & Tools**
 ```yaml
-SIEM     : Splunk · Wazuh · ELK Stack
+SIEM     : Splunk · Wazuh · ELK Stack · Microsoft Sentinel
+Endpoint : Microsoft Defender
+Ticketing: ServiceNow
 Network  : Wireshark · Nmap · Tcpdump
 Threat   : MISP · AlienVault OTX · AbuseIPDB
 Defense  : pfSense · Snort · Suricata
@@ -94,9 +118,9 @@ Infra    : Docker · Ansible
 
 **🌐 Networking**
 ```
-TCP/IP Stack        ████████████  Expert
+TCP/IP Stack        ███████████░  Advanced
 Packet Analysis     ███████████░  Advanced
-DNS / HTTP / FTP    ████████████  Expert
+DNS / HTTP / FTP    ███████████░  Advanced
 Protocol Analysis   ██████████░░  Advanced
 Firewall Rules      █████████░░░  Intermediate
 ```
@@ -114,8 +138,10 @@ Firewall Rules      █████████░░░  Intermediate
 | Certification | Issuer | Domain |
 |:---:|:---:|:---:|
 | 🏆 **Certified SOC Analyst (CSA)** | EC-Council | SOC Operations |
+| 🏆 **Ethical Hacking Essentials (EHE)** | EC-Council | Security Fundamentals |
 | 🏆 **Core Certified User** | Splunk | SIEM & Log Analysis |
-| 🏆 **Cyber Ops Associate** | Cisco | Network Security |
+| 🏆 **CyberOps Associate** | Cisco | Network Security |
+| 🏆 **Ambassador Recognition** | Wazuh | Open-Source SIEM / XDR |
 
 </div>
 
@@ -162,16 +188,15 @@ Firewall Rules      █████████░░░  Intermediate
 ```
 Raw Alerts ──► Feature Extraction ──► Random Forest ──► Verdict
 (SIEM/IDS)     [10 security           Classifier         TP → Escalate Tier 2
-                features]             100% Accuracy      FP → Auto-Close
-                                      AUC: 1.0000
+                features]             (synthetic data)   FP → Auto-Close
 ```
 
 **Stack:** `Python` `scikit-learn` `pandas` `numpy` `Splunk`
 
 **Key Achievements:**
-- 🌲 Random Forest trained on 2000 labeled SOC alert samples
+- 🌲 Random Forest trained on a 2,000-sample synthetic labeled alert set, evaluated on a held-out test split
 - ⚡ Real-time alert classification with confidence scoring
-- 📉 100% false positive reduction on test dataset
+- 📉 Near-perfect scores on synthetic data (cleanly separable by design); next step is validating on noisier, real-world alerts
 - 📊 Live triage dashboard with confusion matrix & feature importance
 
 [![View Project](https://img.shields.io/badge/GitHub-ml--alert--triage-7c3aed?style=flat-square&logo=github)](https://github.com/ibu-cyx0/ml-alert-triage)
@@ -217,24 +242,11 @@ Raw Alerts ──► Feature Extraction ──► Random Forest ──► Verdic
 
 ---
 
-## `./run_stats.sh`
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.shion.dev/api?username=ibu-cyx0&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00d4ff&text_color=c8d8e8&icon_color=7c3aed"/>
-<img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=ibu-cyx0&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=00d4ff&text_color=c8d8e8"/>
-
-<br/>
-
-![Streak](https://streak-stats.demolab.com/?user=ibu-cyx0&theme=dark&hide_border=true&background=0d1117&ring=00d4ff&fire=ff3860&currStreakLabel=00d4ff)
-
-</div>
-
----
-
 ## `cat /var/log/activity.log`
 
 ```
+[2026] ── Wazuh Ambassador Certificate of Recognition ........... [ RECOGNIZED ✓ ]
+[2026] ── SOC Analyst Internship — The Mind IT .................. [ COMPLETE ✓ ]
 [2026] ── Building Zero Trust Network Simulation Lab ............. [ COMPLETE ✓ ]
 [2026] ── CTI Automation Platform (OTX + AbuseIPDB + URLhaus) ... [ COMPLETE ✓ ]
 [2026] ── AI SOC Alert Triage System (Random Forest ML) ......... [ COMPLETE ✓ ]
@@ -272,7 +284,5 @@ Raw Alerts ──► Feature Extraction ──► Random Forest ──► Verdic
 ║                                    — Blue Team Code  ║
 ╚═══════════════════════════════════════════════════════╝
 ```
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>

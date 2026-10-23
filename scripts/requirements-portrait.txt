@@ -1,0 +1,5 @@
+# Local only: needed when you change your photo. The daily workflow does not use these.
+pillow
+numpy
+opencv-python
+rembg[cpu]
