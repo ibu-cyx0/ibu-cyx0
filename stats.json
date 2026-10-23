@@ -1,0 +1,19 @@
+{
+  "_help": "Edit this file to control stats-card.svg. A tile with \"source\" is filled from your GitHub data; a tile with \"value\" is yours to type. Sources: current_streak, longest_streak, contributions, active_days, best_day, avg_active_day. You can mix both: add \"value\" / \"unit\" / \"caption\" / \"label\" to any tile to override that part. Tiles can be added or removed (2-8). Set chart.show to false to hide the bar chart; set chart.mode to \"manual\" and fill labels + values to type your own bars.",
+  "title": "ibu-cyx0 / contribution-stats",
+  "tiles": [
+    { "label": "current streak",   "source": "current_streak" },
+    { "label": "longest streak",   "source": "longest_streak" },
+    { "label": "contributions",    "source": "contributions" },
+    { "label": "active days",      "source": "active_days" },
+    { "label": "best day",         "source": "best_day" },
+    { "label": "avg / active day", "source": "avg_active_day" }
+  ],
+  "chart": {
+    "show": true,
+    "title": "contributions / month",
+    "mode": "auto",
+    "labels": [],
+    "values": []
+  }
+}

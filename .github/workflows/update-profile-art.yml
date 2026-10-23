@@ -6,7 +6,7 @@ name: Update profile art
   workflow_dispatch: {}
   push:
     branches: [main]
-    paths: ["scripts/**", ".github/workflows/update-profile-art.yml"]
+    paths: ["scripts/**", "stats.json", ".github/workflows/update-profile-art.yml"]
 
 permissions:
   contents: write
