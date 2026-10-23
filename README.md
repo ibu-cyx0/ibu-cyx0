@@ -1,47 +1,27 @@
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════════════╗
-║                                                                          ║
-║  ██╗██████╗ ██████╗  █████╗ ██╗  ██╗██╗███╗   ███╗                     ║
-║  ██║██╔══██╗██╔══██╗██╔══██╗██║  ██║██║████╗ ████║                     ║
-║  ██║██████╔╝██████╔╝███████║███████║██║██╔████╔██║                     ║
-║  ██║██╔══██╗██╔══██╗██╔══██║██╔══██║██║██║╚██╔╝██║                     ║
-║  ██║██████╔╝██║  ██║██║  ██║██║  ██║██║██║ ╚═╝ ██║                     ║
-║  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═╝     ╚═╝                     ║
-║                                                                          ║
-║              [ BLUE TEAM OPERATOR | SOC ANALYST ]                        ║
-║                                                                          ║
-╚══════════════════════════════════════════════════════════════════════════╝
-```
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=SOC+Analyst+%7C+Threat+Detection+Engineer;SIEM+%7C+Splunk+%7C+Wazuh+%7C+Wireshark;Cyber+Threat+Intelligence+%7C+Log+Analysis;Blue+Team+%7C+Incident+Response+%7C+Python;Defending+Systems+Before+Attackers+Find+The+Door)
-
-<br/>
-
-[![Visits](https://img.shields.io/badge/PROFILE%20VIEWS-3250-00d4ff?style=flat-square)](https://github.com/ibu-cyx0)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-IbrahimCyb3r4-212C42?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/IbrahimCyb3r4)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-ibrahim-h-585b92282)
-[![Email](https://img.shields.io/badge/Email-ibrahim.cybrx%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ibrahim.cybrx@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-<h3><code>ibu-cyx0@github ~ $ whoami</code></h3>
-
-<img src="./ascii-portrait.svg" width="640" alt="ASCII portrait" />
+<h3><code>ibu-cyx0@github ~ $ ./contributions.sh</code></h3>
+<img src="./contrib-heatmap.svg" width="860" alt="Contribution heatmap" />
 
 <br><br>
 
-<img src="./info-card.svg" width="490" alt="neofetch info card" />
+<h3><code>ibu-cyx0@github ~ $ whoami</code></h3>
+<table>
+  <tr>
+    <td valign="top"><img src="./ascii-portrait.svg" width="370" alt="ASCII portrait" /></td>
+    <td valign="top"><img src="./stats-card.svg" width="490" alt="Contribution stats" /></td>
+  </tr>
+</table>
 
-<br>
+<br><br>
 
-<h3><code>ibu-cyx0@github ~ $ ./contributions.sh</code></h3>
-<img src="./contrib-heatmap.svg" width="860" alt="Contribution heatmap" />
+<h3><code>ibu-cyx0@github ~ $ ./links.sh</code></h3>
+
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-ibrahim--cybrx.is--a.dev-16a34a?style=for-the-badge&labelColor=07140d)](https://ibrahim-cybrx.is-a.dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed%20Ibrahim-16a34a?style=for-the-badge&logo=linkedin&logoColor=4ade80&labelColor=07140d)](https://linkedin.com/in/mohamed-ibrahim-h-585b92282)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-IbrahimCyb3r4-16a34a?style=for-the-badge&logo=tryhackme&logoColor=4ade80&labelColor=07140d)](https://tryhackme.com/p/IbrahimCyb3r4)
+[![X](https://img.shields.io/badge/X-%40CybrxIbrahim-16a34a?style=for-the-badge&logo=x&logoColor=4ade80&labelColor=07140d)](https://x.com/CybrxIbrahim)
+[![Email](https://img.shields.io/badge/Email-ibrahim.cybrx%40gmail.com-16a34a?style=for-the-badge&logo=gmail&logoColor=4ade80&labelColor=07140d)](mailto:ibrahim.cybrx@gmail.com)
 
 </div>
 
@@ -257,21 +237,6 @@ Raw Alerts ──► Feature Extraction ──► Random Forest ──► Verdic
 [2025] ── Network Traffic Analysis (Wireshark) .................. [ COMPLETE ✓ ]
 [2026] ── B.E. Cyber Security — Paavai Engineering College ....... [ COMPLETE ✓ ]
 ```
-
----
-
-## `ping socials --all`
-
-<div align="center">
-
-[![X/Twitter](https://img.shields.io/badge/X-%40CybrxIbrahim-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/CybrxIbrahim)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed%20Ibrahim-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-ibrahim-h-585b92282)
-[![Discord](https://img.shields.io/badge/Discord-Join-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/PXdfHe4J8)
-[![Reddit](https://img.shields.io/badge/Reddit-ibrahim__1207-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/user/ibrahim_1207)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-IbrahimCyb3r4-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/IbrahimCyb3r4)
-[![Email](https://img.shields.io/badge/Email-ibrahim.cybrx%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ibrahim.cybrx@gmail.com)
-
-</div>
 
 ---
 

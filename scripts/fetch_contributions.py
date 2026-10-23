@@ -30,7 +30,7 @@ def fetch_days():
                 count = 0
         days.append({"date": d, "count": count, "level": level})
     days.sort(key=lambda x: x["date"])
-    return days
+    return days[-365:]                      # exactly the last year
 
 def stats(days):
     total = sum(d["count"] for d in days)

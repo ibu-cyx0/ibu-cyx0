@@ -23,5 +23,18 @@ clahe = cv2.createCLAHE(clipLimit=3.0, tileGridSize=(8, 8))   # local contrast
 gray = clahe.apply(gray).astype(np.float32)
 
 out = gray[..., None] * alpha + 255.0 * (1 - alpha)           # composite on pure white
-Image.fromarray(out[..., 0].astype(np.uint8), "L").save("source-prepped.png")
+res = out[..., 0].astype(np.uint8)
+
+# auto-crop to the subject, add a margin, and pad to a 5:6 portrait frame
+ys, xs = np.where((alpha[..., 0] > 0.15) if use_rembg or alpha.min() < 1 else (res < 235))
+if len(xs):
+    m = int(0.06 * max(xs.max() - xs.min(), ys.max() - ys.min()))
+    x0, x1 = max(0, xs.min() - m), min(res.shape[1], xs.max() + m)
+    y0, y1 = max(0, ys.min() - m), min(res.shape[0], ys.max() + m)
+    res = res[y0:y1, x0:x1]
+h, w = res.shape
+tw = max(w, int(h * 5 / 6)); th = max(h, int(w * 6 / 5))
+canvas = np.full((th, tw), 255, np.uint8)
+canvas[(th - h) // 2:(th - h) // 2 + h, (tw - w) // 2:(tw - w) // 2 + w] = res
+Image.fromarray(canvas, "L").save("source-prepped.png")
 print("wrote source-prepped.png")

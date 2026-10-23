@@ -12,11 +12,6 @@ text{font-family:"Fira Code",Consolas,monospace;fill:#86b79b;font-size:10px}
 <text x="6" y="125">Wed</text>
 <text x="6" y="155">Fri</text>
 <text x="40" y="62">Oct</text>
-<rect class="c" style="animation-delay:0.00s" x="40" y="70" width="12" height="12" rx="2" fill="#10301f"><title>0 on 2025-10-19</title></rect>
-<rect class="c" style="animation-delay:0.02s" x="40" y="85" width="12" height="12" rx="2" fill="#10301f"><title>0 on 2025-10-20</title></rect>
-<rect class="c" style="animation-delay:0.04s" x="40" y="100" width="12" height="12" rx="2" fill="#10301f"><title>0 on 2025-10-21</title></rect>
-<rect class="c" style="animation-delay:0.06s" x="40" y="115" width="12" height="12" rx="2" fill="#10301f"><title>0 on 2025-10-22</title></rect>
-<rect class="c" style="animation-delay:0.08s" x="40" y="130" width="12" height="12" rx="2" fill="#10301f"><title>0 on 2025-10-23</title></rect>
 <rect class="c" style="animation-delay:0.10s" x="40" y="145" width="12" height="12" rx="2" fill="#10301f"><title>0 on 2025-10-24</title></rect>
 <rect class="c" style="animation-delay:0.12s" x="40" y="160" width="12" height="12" rx="2" fill="#10301f"><title>0 on 2025-10-25</title></rect>
 <rect class="c" style="animation-delay:0.02s" x="55" y="70" width="12" height="12" rx="2" fill="#10301f"><title>0 on 2025-10-26</title></rect>
