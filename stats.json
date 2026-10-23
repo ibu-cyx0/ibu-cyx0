@@ -4,7 +4,7 @@
   "tiles": [
     { "label": "current streak",   "source": "current_streak" },
     { "label": "longest streak",   "source": "longest_streak" },
-    { "label": "contributions",    "source": "contributions" },
+    { "label": "300",    "source": "contributions" },
     { "label": "active days",      "source": "active_days" },
     { "label": "best day",         "source": "best_day" },
     { "label": "avg / active day", "source": "avg_active_day" }
