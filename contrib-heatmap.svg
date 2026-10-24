@@ -6,13 +6,12 @@ text{font-family:"Fira Code",Consolas,monospace;fill:#86b79b;font-size:10px}
 @keyframes in{from{opacity:0;transform:translateY(-6px)}to{opacity:1;transform:none}}
 </style>
 <rect width="855" height="231" rx="8" fill="#07140d"/>
-<text class="t" x="40" y="24">129 contributions in the last year</text>
+<text class="t" x="40" y="24">130 contributions in the last year</text>
 <text x="40" y="42">current streak 1d  |  longest 7d</text>
 <text x="6" y="95">Mon</text>
 <text x="6" y="125">Wed</text>
 <text x="6" y="155">Fri</text>
 <text x="40" y="62">Oct</text>
-<rect class="c" style="animation-delay:0.10s" x="40" y="145" width="12" height="12" rx="2" fill="#10301f"><title>0 on 2025-10-24</title></rect>
 <rect class="c" style="animation-delay:0.12s" x="40" y="160" width="12" height="12" rx="2" fill="#10301f"><title>0 on 2025-10-25</title></rect>
 <rect class="c" style="animation-delay:0.02s" x="55" y="70" width="12" height="12" rx="2" fill="#10301f"><title>0 on 2025-10-26</title></rect>
 <rect class="c" style="animation-delay:0.04s" x="55" y="85" width="12" height="12" rx="2" fill="#10301f"><title>0 on 2025-10-27</title></rect>
@@ -387,7 +386,8 @@ text{font-family:"Fira Code",Consolas,monospace;fill:#86b79b;font-size:10px}
 <rect class="c" style="animation-delay:1.08s" x="820" y="100" width="12" height="12" rx="2" fill="#10301f"><title>0 on 2026-10-20</title></rect>
 <rect class="c" style="animation-delay:1.10s" x="820" y="115" width="12" height="12" rx="2" fill="#10301f"><title>0 on 2026-10-21</title></rect>
 <rect class="c" style="animation-delay:1.12s" x="820" y="130" width="12" height="12" rx="2" fill="#10301f"><title>0 on 2026-10-22</title></rect>
-<rect class="c" style="animation-delay:1.14s" x="820" y="145" width="12" height="12" rx="2" fill="#22c55e"><title>6 on 2026-10-23</title></rect>
+<rect class="c" style="animation-delay:1.14s" x="820" y="145" width="12" height="12" rx="2" fill="#22c55e"><title>7 on 2026-10-23</title></rect>
+<rect class="c" style="animation-delay:1.16s" x="820" y="160" width="12" height="12" rx="2" fill="#10301f"><title>0 on 2026-10-24</title></rect>
 <text x="675" y="207">Less</text>
 <rect x="709" y="197" width="12" height="12" rx="2" fill="#10301f"/>
 <rect x="724" y="197" width="12" height="12" rx="2" fill="#14532d"/>
