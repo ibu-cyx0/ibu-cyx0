@@ -1,29 +1,29 @@
-&lt;div align=&quot;center&quot;&gt;
+<div align="center">
 
-&lt;h3&gt;&lt;code&gt;ibu-cyx0@github ~ $ ./contributions.sh&lt;/code&gt;&lt;/h3&gt;
-&lt;img src=&quot;./contrib-heatmap.svg&quot; width=&quot;860&quot; alt=&quot;IBRAHIM Contribution Heatmap&quot; /&gt;
+<h3><code>ibu-cyx0@github ~ $ ./contributions.sh</code></h3>
+<img src="./contrib-heatmap.svg" width="860" alt="IBRAHIM Contribution Heatmap" />
 
 <br><br>
 
-&lt;h3&gt;&lt;code&gt;ibu-cyx0@github ~ $ whoami&lt;/code&gt;&lt;/h3&gt;
-&lt;table&gt;
-  &lt;tr&gt;
-    &lt;td valign=&quot;top&quot;&gt;&lt;img src=&quot;./ascii-portrait.svg&quot; width=&quot;370&quot; alt=&quot;Operator Portrait&quot; /&gt;&lt;/td&gt;
-    &lt;td valign=&quot;top&quot;&gt;&lt;img src=&quot;./stats-card.svg&quot; width=&quot;490&quot; alt=&quot;SOC Telemetry &amp; Radar Stats&quot; /&gt;&lt;/td&gt;
-  &lt;/tr&gt;
-&lt;/table&gt;
+<h3><code>ibu-cyx0@github ~ $ whoami</code></h3>
+<table>
+  <tr>
+    <td valign="top"><img src="./ascii-portrait.svg" width="370" alt="Operator Portrait" /></td>
+    <td valign="top"><img src="./stats-card.svg" width="490" alt="SOC Telemetry & Radar Stats" /></td>
+  </tr>
+</table>
 
 <br>
 
-&lt;h3&gt;&lt;code&gt;ibu-cyx0@github ~ $ ./links.sh&lt;/code&gt;&lt;/h3&gt;
+<h3><code>ibu-cyx0@github ~ $ ./links.sh</code></h3>
 
-[](https://ibrahim-cybrx.is-a.dev/)
-[](https://linkedin.com/in/mohamed-ibrahim-h-585b92282)
-[](https://tryhackme.com/p/IbrahimCyb3r4)
-[](https://x.com/CybrxIbrahim)
-[](mailto:ibrahim.cybrx@gmail.com)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-ibrahim--cybrx.is--a.dev-16a34a?style=for-the-badge&labelColor=07140d)](https://ibrahim-cybrx.is-a.dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed%20Ibrahim-16a34a?style=for-the-badge&logo=linkedin&logoColor=4ade80&labelColor=07140d)](https://linkedin.com/in/mohamed-ibrahim-h-585b92282)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-IbrahimCyb3r4-16a34a?style=for-the-badge&logo=tryhackme&logoColor=4ade80&labelColor=07140d)](https://tryhackme.com/p/IbrahimCyb3r4)
+[![X](https://img.shields.io/badge/X-%40CybrxIbrahim-16a34a?style=for-the-badge&logo=x&logoColor=4ade80&labelColor=07140d)](https://x.com/CybrxIbrahim)
+[![Email](https://img.shields.io/badge/Email-ibrahim.cybrx%40gmail.com-16a34a?style=for-the-badge&logo=gmail&logoColor=4ade80&labelColor=07140d)](mailto:ibrahim.cybrx@gmail.com)
 
-&lt;/div&gt;
+</div>
 
 <br>
 
@@ -60,24 +60,24 @@
 
 ## `cat /etc/skills.conf`
 
-&lt;table&gt;
-&lt;tr&gt;
-&lt;td width=&quot;50%&quot; valign=&quot;top&quot;&gt;
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 🛡️ SIEM, XDR & Threat Defense
-
-
-
-
-
-
+![Splunk](https://img.shields.io/badge/Splunk-07140d?style=for-the-badge&logo=splunk&logoColor=4ade80)
+![Wazuh](https://img.shields.io/badge/Wazuh_SIEM-07140d?style=for-the-badge&logo=wazuh&logoColor=4ade80)
+![Elastic Stack](https://img.shields.io/badge/ELK_Stack-07140d?style=for-the-badge&logo=elasticsearch&logoColor=4ade80)
+![Microsoft Sentinel](https://img.shields.io/badge/MS_Sentinel-07140d?style=for-the-badge&logo=microsoftazure&logoColor=4ade80)
+![Microsoft Defender](https://img.shields.io/badge/MS_Defender-07140d?style=for-the-badge&logo=microsoft&logoColor=4ade80)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-07140d?style=for-the-badge&logo=servicenow&logoColor=4ade80)
 
 ### 📡 Network Forensics & Perimeter
-
-
-
-
-
+![Wireshark](https://img.shields.io/badge/Wireshark-07140d?style=for-the-badge&logo=wireshark&logoColor=4ade80)
+![pfSense](https://img.shields.io/badge/pfSense-07140d?style=for-the-badge&logo=pfsense&logoColor=4ade80)
+![Suricata](https://img.shields.io/badge/Suricata_IDS-07140d?style=for-the-badge&logo=securityscorecard&logoColor=4ade80)
+![Snort](https://img.shields.io/badge/Snort-07140d?style=for-the-badge&logo=cisco&logoColor=4ade80)
+![Nmap](https://img.shields.io/badge/Nmap_/_Tcpdump-07140d?style=for-the-badge&logo=kalilinux&logoColor=4ade80)
 
 ```text
 ┌──────── [ BLUE TEAM READINESS ] ────────┐
@@ -90,25 +90,25 @@
 └─────────────────────────────────────────┘
 ```
 
-&lt;/td&gt;
-&lt;td width=&quot;50%&quot; valign=&quot;top&quot;&gt;
+</td>
+<td width="50%" valign="top">
 
 ### 💻 Security Automation & Infra
-
-
-
-
-
-
-
-
-
+![Python](https://img.shields.io/badge/Python-07140d?style=for-the-badge&logo=python&logoColor=4ade80)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-07140d?style=for-the-badge&logo=scikitlearn&logoColor=4ade80)
+![Bash](https://img.shields.io/badge/Bash-07140d?style=for-the-badge&logo=gnubash&logoColor=4ade80)
+![PowerShell](https://img.shields.io/badge/PowerShell-07140d?style=for-the-badge&logo=powershell&logoColor=4ade80)
+![Flask](https://img.shields.io/badge/Flask_/_REST-07140d?style=for-the-badge&logo=flask&logoColor=4ade80)
+![Docker](https://img.shields.io/badge/Docker-07140d?style=for-the-badge&logo=docker&logoColor=4ade80)
+![Ansible](https://img.shields.io/badge/Ansible-07140d?style=for-the-badge&logo=ansible&logoColor=4ade80)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-07140d?style=for-the-badge&logo=virtualbox&logoColor=4ade80)
+![Git](https://img.shields.io/badge/Git_/_GitHub-07140d?style=for-the-badge&logo=git&logoColor=4ade80)
 
 ### 🧬 Threat Intel & Frameworks
-
-
-
-
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-07140d?style=for-the-badge&logo=target&logoColor=4ade80)
+![NIST 800-207](https://img.shields.io/badge/NIST_SP_800--207-07140d?style=for-the-badge&logo=cloudflare&logoColor=4ade80)
+![MISP](https://img.shields.io/badge/MISP_/_OTX-07140d?style=for-the-badge&logo=virustotal&logoColor=4ade80)
+![AbuseIPDB](https://img.shields.io/badge/AbuseIPDB_/_URLhaus-07140d?style=for-the-badge&logo=shield&logoColor=4ade80)
 
 ```text
 ┌──────── [ NETWORK & PROTOCOL ] ─────────┐
@@ -121,17 +121,17 @@
 └─────────────────────────────────────────┘
 ```
 
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/table&gt;
+</td>
+</tr>
+</table>
 
 <br>
 
 ## `ls ~/projects/ --sort=impact`
 
-&lt;table&gt;
-&lt;tr&gt;
-&lt;td width=&quot;50%&quot; valign=&quot;top&quot;&gt;
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 🔥 [CTI Automation Platform](https://github.com/ibu-cyx0/cti-automation-platform) `FLAGSHIP`
 > **Automated Cyber Threat Intelligence & Splunk Correlation Pipeline**
@@ -145,8 +145,8 @@
 * **Multi-Feed Ingestion**: Automated IOC collection across AlienVault OTX, AbuseIPDB & URLhaus via Python REST APIs.
 * **Real-Time SIEM Matching**: Correlates live IOCs against firewall/proxy logs in Splunk with automated severity tagging (`CRITICAL` to `LOW`).
 
-&lt;/td&gt;
-&lt;td width=&quot;50%&quot; valign=&quot;top&quot;&gt;
+</td>
+<td width="50%" valign="top">
 
 ### 🤖 [AI SOC Alert Triage System](https://github.com/ibu-cyx0/ml-alert-triage) `ML // 0.99 AUC`
 > **Machine Learning False-Positive Reduction Engine for Tier-1/Tier-2 SOC**
@@ -160,10 +160,10 @@
 * **High-Precision Triage**: Trained a Random Forest classifier on 2,000 synthetic labeled SOC alerts, achieving **98.5% test accuracy** and **0.99 ROC-AUC**.
 * **Automated Escalation**: Scores alert confidence and escalates verified `CRITICAL` true positives to Tier 2, auto-closing false positives.
 
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td width=&quot;50%&quot; valign=&quot;top&quot;&gt;
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 🛡️ Zero Trust Network Simulation Lab `NIST 800-207`
 > **4-Zone Micro-Segmented Architecture & MITRE ATT&CK SIEM Detection**
@@ -177,8 +177,8 @@
 * **Micro-Segmentation**: Engineered `SOC / DEV / MGMT / GUEST` zones per **NIST SP 800-207** with 13 custom pfSense default-deny firewall rules.
 * **Continuous Verification**: Built a Python Zero Trust Policy Engine (device trust, MFA, role, IP, time) paired with 6 MITRE ATT&CK rules in Wazuh.
 
-&lt;/td&gt;
-&lt;td width=&quot;50%&quot; valign=&quot;top&quot;&gt;
+</td>
+<td width="50%" valign="top">
 
 ### 🏠 [SOC Home Lab](https://github.com/ibu-cyx0/soc-home-lab) & 🌐 [Packet Forensics](https://github.com/ibu-cyx0/network-traffic-analysis) `SIEM + PCAP`
 > **End-to-End SIEM Correlation & Deep Packet Inspection Workflows**
@@ -192,15 +192,15 @@
 * **SIEM Detection Engineering**: Built custom brute-force and anomalous authentication detection rules across Splunk and Wazuh.
 * **Protocol Forensics**: Captured and dissected live HTTP, DNS, and TCP traffic using Wireshark and Scapy to uncover C2 patterns.
 
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/table&gt;
+</td>
+</tr>
+</table>
 
 <br>
 
 ## `ls -la ~/certifications_and_research/`
 
-&lt;div align=&quot;center&quot;&gt;
+<div align="center">
 
 | Credential / Milestone | Issuing Body / Venue | Domain & Impact |
 |:---|:---|:---|
@@ -212,7 +212,7 @@
 | 📄 **Published Research (2025)** | *IJARIIT* (Vol. 11, Issue 1) | *"Creating Tailored Detection and Prevention Mechanisms for Targeted Threats"* |
 | 🎤 **Technical Seminar Speaker** | College Tech Symposium | Delivered *"AI-Powered Threat Detection in SOC"* to **150+ students** |
 
-&lt;/div&gt;
+</div>
 
 <br>
 
@@ -234,7 +234,7 @@
 
 <br>
 
-&lt;div align=&quot;center&quot;&gt;
+<div align="center">
 
 ```text
 ╔═══════════════════════════════════════════════════════╗
@@ -244,4 +244,4 @@
 ╚═══════════════════════════════════════════════════════╝
 ```
 
-&lt;/div&gt;
+</div>
