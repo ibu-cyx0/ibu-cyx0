@@ -1,253 +1,247 @@
-<div align="center">
+&lt;div align=&quot;center&quot;&gt;
 
-<h3><code>ibu-cyx0@github ~ $ ./contributions.sh</code></h3>
-<img src="./contrib-heatmap.svg" width="860" alt="Contribution heatmap" />
-
-<br><br>
-
-<h3><code>ibu-cyx0@github ~ $ whoami</code></h3>
-<table>
-  <tr>
-    <td valign="top"><img src="./ascii-portrait.svg" width="370" alt="ASCII portrait" /></td>
-    <td valign="top"><img src="./stats-card.svg" width="490" alt="Contribution stats" /></td>
-  </tr>
-</table>
+&lt;h3&gt;&lt;code&gt;ibu-cyx0@github ~ $ ./contributions.sh&lt;/code&gt;&lt;/h3&gt;
+&lt;img src=&quot;./contrib-heatmap.svg&quot; width=&quot;860&quot; alt=&quot;IBRAHIM Contribution Heatmap&quot; /&gt;
 
 <br><br>
 
-<h3><code>ibu-cyx0@github ~ $ ./links.sh</code></h3>
+&lt;h3&gt;&lt;code&gt;ibu-cyx0@github ~ $ whoami&lt;/code&gt;&lt;/h3&gt;
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td valign=&quot;top&quot;&gt;&lt;img src=&quot;./ascii-portrait.svg&quot; width=&quot;370&quot; alt=&quot;Operator Portrait&quot; /&gt;&lt;/td&gt;
+    &lt;td valign=&quot;top&quot;&gt;&lt;img src=&quot;./stats-card.svg&quot; width=&quot;490&quot; alt=&quot;SOC Telemetry &amp; Radar Stats&quot; /&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-ibrahim--cybrx.is--a.dev-16a34a?style=for-the-badge&labelColor=07140d)](https://ibrahim-cybrx.is-a.dev/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed%20Ibrahim-16a34a?style=for-the-badge&logo=linkedin&logoColor=4ade80&labelColor=07140d)](https://linkedin.com/in/mohamed-ibrahim-h-585b92282)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-IbrahimCyb3r4-16a34a?style=for-the-badge&logo=tryhackme&logoColor=4ade80&labelColor=07140d)](https://tryhackme.com/p/IbrahimCyb3r4)
-[![X](https://img.shields.io/badge/X-%40CybrxIbrahim-16a34a?style=for-the-badge&logo=x&logoColor=4ade80&labelColor=07140d)](https://x.com/CybrxIbrahim)
-[![Email](https://img.shields.io/badge/Email-ibrahim.cybrx%40gmail.com-16a34a?style=for-the-badge&logo=gmail&logoColor=4ade80&labelColor=07140d)](mailto:ibrahim.cybrx@gmail.com)
+<br>
 
-</div>
+&lt;h3&gt;&lt;code&gt;ibu-cyx0@github ~ $ ./links.sh&lt;/code&gt;&lt;/h3&gt;
 
----
+[](https://ibrahim-cybrx.is-a.dev/)
+[](https://linkedin.com/in/mohamed-ibrahim-h-585b92282)
+[](https://tryhackme.com/p/IbrahimCyb3r4)
+[](https://x.com/CybrxIbrahim)
+[](mailto:ibrahim.cybrx@gmail.com)
+
+&lt;/div&gt;
+
+<br>
 
 ## `cat profile.txt`
 
-```bash
-┌──[ibu-cyx0@soc-workstation]─[~]
-└─$ cat profile.txt
-
-Name     : Mohamed Ibrahim H
-Role     : SOC Analyst | Blue Team
-Location : Tamil Nadu, India
-Focus    : Threat Detection | Incident Response
-Status   : 🟢 Actively Hunting Threats
-
-Experience:
-  ✅ SOC Analyst Intern, The Mind IT (Jan–Apr 2026)
-
-Certifications:
-  ✅ EC-Council Certified SOC Analyst (CSA)
-  ✅ EC-Council Ethical Hacking Essentials (EHE)
-  ✅ Splunk Core Certified User
-  ✅ Cisco CyberOps Associate
-  ✅ Wazuh Ambassador (Certificate of Recognition)
-
-Rank     : TryHackMe Top 5% globally
-
-Mission  : Defend systems before attackers
-           find the door open.
+```text
+╔══════════════════════════════════════════════════════════════════════════════╗
+║  [+] SOC WORKSTATION // NODE: ibu-cyx0@soc-hq                  [ONLINE ●]    ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║  ┌───────────────────────────────────┐  ┌─────────────────────────────────┐  ║
+║  │ OPERATOR : Mohamed Ibrahim H      │  │ RANK   : TryHackMe Top 5% (50+) │  ║
+║  │ ROLE     : SOC Analyst | Blue Team│  │ STATUS : Actively Hunting       │  ║
+║  │ LOCATION : Tamil Nadu, India      │  │ DEGREE : B.E. Cyber Security    │  ║
+║  │ FOCUS    : SIEM · CTI · IR · ZTA  │  │ PAPER  : IJARIIT Vol.11 (2025)  │  ║
+║  └───────────────────────────────────┘  └─────────────────────────────────┘  ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║  [>] EXPERIENCE                                                              ║
+║      [✓] SOC Analyst Intern — The Mind IT (Jan–Apr 2026 | Hybrid)            ║
+║          • Triaged & correlated security alerts across Splunk & Wazuh SIEM   ║
+║          • Investigated IOCs to filter false positives & escalate incidents  ║
+║                                                                              ║
+║  [>] VERIFIED CERTIFICATIONS & RECOGNITION                                   ║
+║      [✓] EC-Council Certified SOC Analyst (CSA)                              ║
+║      [✓] EC-Council Ethical Hacking Essentials (EHE)                         ║
+║      [✓] Splunk Core Certified User                                          ║
+║      [✓] Cisco Certified CyberOps Associate                                  ║
+║      [✓] Wazuh Ambassador (Certificate of Recognition)                       ║
+║                                                                              ║
+║  [>] MISSION : "Defend systems before attackers find the door open."         ║
+╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
----
+<br>
 
 ## `cat /etc/skills.conf`
 
-<table>
-<tr>
-<td width="50%" valign="top">
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td width=&quot;50%&quot; valign=&quot;top&quot;&gt;
 
-**🛡️ Security Operations**
-```
-Security Monitoring    ███████████░  Advanced
-Threat Detection       ███████████░  Advanced
-Incident Response      ██████████░░  Advanced
-Log Analysis           ███████████░  Advanced
-Threat Intelligence    █████████░░░  Intermediate
-Vulnerability Mgmt     ████████░░░░  Intermediate
-```
+### 🛡️ SIEM, XDR & Threat Defense
 
-**📡 SIEM & Tools**
-```yaml
-SIEM     : Splunk · Wazuh · ELK Stack · Microsoft Sentinel
-Endpoint : Microsoft Defender
-Ticketing: ServiceNow
-Network  : Wireshark · Nmap · Tcpdump
-Threat   : MISP · AlienVault OTX · AbuseIPDB
-Defense  : pfSense · Snort · Suricata
-IAM      : Active Directory · Zero Trust
-```
 
-</td>
-<td width="50%" valign="top">
 
-**💻 Development**
-```yaml
-Primary  : Python (Security Automation)
-Scripts  : PowerShell · Bash
-APIs     : REST · Flask · Splunk REST
-Version  : Git · GitHub
-Infra    : Docker · Ansible
+
+
+
+
+### 📡 Network Forensics & Perimeter
+
+
+
+
+
+
+```text
+┌──────── [ BLUE TEAM READINESS ] ────────┐
+│ Security Monitoring  ███████████░  94%  │
+│ Threat Detection     ███████████░  92%  │
+│ Incident Response    ██████████░░  88%  │
+│ Log Correlation      ███████████░  94%  │
+│ Threat Intelligence  █████████░░░  85%  │
+│ Zero Trust (800-207) █████████░░░  85%  │
+└─────────────────────────────────────────┘
 ```
 
-**🌐 Networking**
+&lt;/td&gt;
+&lt;td width=&quot;50%&quot; valign=&quot;top&quot;&gt;
+
+### 💻 Security Automation & Infra
+
+
+
+
+
+
+
+
+
+
+### 🧬 Threat Intel & Frameworks
+
+
+
+
+
+```text
+┌──────── [ NETWORK & PROTOCOL ] ─────────┐
+│ TCP/IP Stack         ███████████░  92%  │
+│ Packet Forensics     ███████████░  92%  │
+│ DNS / HTTP / TLS     ███████████░  90%  │
+│ Firewall Rule Eng.   ██████████░░  88%  │
+│ Active Directory/IAM █████████░░░  82%  │
+│ SIEM Rule Authoring  ███████████░  92%  │
+└─────────────────────────────────────────┘
 ```
-TCP/IP Stack        ███████████░  Advanced
-Packet Analysis     ███████████░  Advanced
-DNS / HTTP / FTP    ███████████░  Advanced
-Protocol Analysis   ██████████░░  Advanced
-Firewall Rules      █████████░░░  Intermediate
-```
 
-</td>
-</tr>
-</table>
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
 
----
-
-## `ls -la ~/certifications/`
-
-<div align="center">
-
-| Certification | Issuer | Domain |
-|:---:|:---:|:---:|
-| 🏆 **Certified SOC Analyst (CSA)** | EC-Council | SOC Operations |
-| 🏆 **Ethical Hacking Essentials (EHE)** | EC-Council | Security Fundamentals |
-| 🏆 **Core Certified User** | Splunk | SIEM & Log Analysis |
-| 🏆 **CyberOps Associate** | Cisco | Network Security |
-| 🏆 **Ambassador Recognition** | Wazuh | Open-Source SIEM / XDR |
-
-</div>
-
----
+<br>
 
 ## `ls ~/projects/ --sort=impact`
 
-<details>
-<summary><b>🔥 Project 1 — CTI Automation Platform</b> &nbsp;<code>[ FLAGSHIP ]</code></summary>
-<br/>
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td width=&quot;50%&quot; valign=&quot;top&quot;&gt;
 
-> **Automated Cyber Threat Intelligence Pipeline**
+### 🔥 [CTI Automation Platform](https://github.com/ibu-cyx0/cti-automation-platform) `FLAGSHIP`
+> **Automated Cyber Threat Intelligence & Splunk Correlation Pipeline**
 
+```text
+┌──────────────┐    ┌───────────────┐    ┌───────────────┐
+│ OTX/AbuseIPDB├───►│ Python Engine ├───►│ Splunk SIEM   │
+│ + URLhaus    │    │ Deduplication │    │ Live Dashboard│
+└──────────────┘    └───────────────┘    └───────────────┘
 ```
-┌─ ARCHITECTURE ──────────────────────────────────────┐
-│                                                      │
-│  AlienVault OTX ──┐                                 │
-│  AbuseIPDB ───────┼──► IOC Collector ──► Splunk     │
-│  URLhaus ─────────┘    (Python)        Correlator   │
-│                                            │        │
-│                              Live Dashboard ◄────── │
-└──────────────────────────────────────────────────── ┘
+* **Multi-Feed Ingestion**: Automated IOC collection across AlienVault OTX, AbuseIPDB & URLhaus via Python REST APIs.
+* **Real-Time SIEM Matching**: Correlates live IOCs against firewall/proxy logs in Splunk with automated severity tagging (`CRITICAL` to `LOW`).
+
+&lt;/td&gt;
+&lt;td width=&quot;50%&quot; valign=&quot;top&quot;&gt;
+
+### 🤖 [AI SOC Alert Triage System](https://github.com/ibu-cyx0/ml-alert-triage) `ML // 0.99 AUC`
+> **Machine Learning False-Positive Reduction Engine for Tier-1/Tier-2 SOC**
+
+```text
+┌──────────────┐    ┌───────────────┐    ┌───────────────┐
+│ 2,000 Alerts ├───►│ Random Forest ├───►│ TP ► Tier 2   │
+│ 10 Features  │    │ 98.5% Test Acc│    │ FP ► AutoClose│
+└──────────────┘    └───────────────┘    └───────────────┘
 ```
+* **High-Precision Triage**: Trained a Random Forest classifier on 2,000 synthetic labeled SOC alerts, achieving **98.5% test accuracy** and **0.99 ROC-AUC**.
+* **Automated Escalation**: Scores alert confidence and escalates verified `CRITICAL` true positives to Tier 2, auto-closing false positives.
 
-**Stack:** `Python` `Splunk REST API` `AlienVault OTX` `AbuseIPDB` `URLhaus` `Docker`
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width=&quot;50%&quot; valign=&quot;top&quot;&gt;
 
-**Key Achievements:**
-- 🔗 Multi-feed IOC collection with automatic deduplication
-- 🔍 Splunk log correlation via REST API for real-time IOC matching
-- 📊 Live dark-themed dashboard with threat origin heatmap
-- ⚡ Auto-severity classification: CRITICAL / HIGH / MEDIUM / LOW
+### 🛡️ Zero Trust Network Simulation Lab `NIST 800-207`
+> **4-Zone Micro-Segmented Architecture & MITRE ATT&CK SIEM Detection**
 
-[![View Project](https://img.shields.io/badge/GitHub-cti--automation--platform-00d4ff?style=flat-square&logo=github)](https://github.com/ibu-cyx0/cti-automation-platform)
-[![Live Demo](https://img.shields.io/badge/Live-Dashboard-00ff88?style=flat-square&logo=github-pages)](https://ibu-cyx0.github.io/cti-automation-platform)
-
-</details>
-
-<details>
-<summary><b>🤖 Project 2 — AI SOC Alert Triage System</b> &nbsp;<code>[ ML ]</code></summary>
-<br/>
-
-> **ML-Based False Positive Reduction for SOC Analysts**
-
+```text
+┌──────────────┐    ┌───────────────┐    ┌───────────────┐
+│ 4-Zone Net   ├───►│ Python ZTA    ├───►│ Wazuh SIEM    │
+│ 13 pfSense   │    │ Policy Engine │    │ 6 ATT&CK Rules│
+└──────────────┘    └───────────────┘    └───────────────┘
 ```
-Raw Alerts ──► Feature Extraction ──► Random Forest ──► Verdict
-(SIEM/IDS)     [10 security           Classifier         TP → Escalate Tier 2
-                features]             (synthetic data)   FP → Auto-Close
+* **Micro-Segmentation**: Engineered `SOC / DEV / MGMT / GUEST` zones per **NIST SP 800-207** with 13 custom pfSense default-deny firewall rules.
+* **Continuous Verification**: Built a Python Zero Trust Policy Engine (device trust, MFA, role, IP, time) paired with 6 MITRE ATT&CK rules in Wazuh.
+
+&lt;/td&gt;
+&lt;td width=&quot;50%&quot; valign=&quot;top&quot;&gt;
+
+### 🏠 [SOC Home Lab](https://github.com/ibu-cyx0/soc-home-lab) & 🌐 [Packet Forensics](https://github.com/ibu-cyx0/network-traffic-analysis) `SIEM + PCAP`
+> **End-to-End SIEM Correlation & Deep Packet Inspection Workflows**
+
+```text
+┌──────────────┐    ┌───────────────┐    ┌───────────────┐
+│ Wireshark/PCAP├──►│ Scapy / Rules ├───►│ Splunk + Wazuh│
+│ DNS/HTTP/TCP │    │ C2 & BruteFrc │    │ IR Playbooks  │
+└──────────────┘    └───────────────┘    └───────────────┘
 ```
+* **SIEM Detection Engineering**: Built custom brute-force and anomalous authentication detection rules across Splunk and Wazuh.
+* **Protocol Forensics**: Captured and dissected live HTTP, DNS, and TCP traffic using Wireshark and Scapy to uncover C2 patterns.
 
-**Stack:** `Python` `scikit-learn` `pandas` `numpy` `Splunk`
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
 
-**Key Achievements:**
-- 🌲 Random Forest trained on a 2,000-sample synthetic labeled alert set, evaluated on a held-out test split
-- ⚡ Real-time alert classification with confidence scoring
-- 📉 Near-perfect scores on synthetic data (cleanly separable by design); next step is validating on noisier, real-world alerts
-- 📊 Live triage dashboard with confusion matrix & feature importance
+<br>
 
-[![View Project](https://img.shields.io/badge/GitHub-ml--alert--triage-7c3aed?style=flat-square&logo=github)](https://github.com/ibu-cyx0/ml-alert-triage)
-[![Live Demo](https://img.shields.io/badge/Live-Dashboard-a78bfa?style=flat-square&logo=github-pages)](https://ibu-cyx0.github.io/ml-alert-triage)
+## `ls -la ~/certifications_and_research/`
 
-</details>
+&lt;div align=&quot;center&quot;&gt;
 
-<details>
-<summary><b>🏠 Project 3 — SOC Home Lab</b> &nbsp;<code>[ SIEM ]</code></summary>
-<br/>
+| Credential / Milestone | Issuing Body / Venue | Domain & Impact |
+|:---|:---|:---|
+| 🏆 **Certified SOC Analyst (CSA)** | EC-Council | Tier-1/Tier-2 SOC Operations, SIEM & Incident Response |
+| 🏆 **CyberOps Associate** | Cisco | Network Security Operations & Protocol Forensics |
+| 🏆 **Core Certified User** | Splunk | SPL Queries, Dashboards & Log Correlation |
+| 🏆 **Ethical Hacking Essentials (EHE)** | EC-Council | Attack Surface Analysis & Defensive Countermeasures |
+| 🏆 **Wazuh Ambassador** | Wazuh | Open-Source SIEM / XDR Community Recognition |
+| 📄 **Published Research (2025)** | *IJARIIT* (Vol. 11, Issue 1) | *"Creating Tailored Detection and Prevention Mechanisms for Targeted Threats"* |
+| 🎤 **Technical Seminar Speaker** | College Tech Symposium | Delivered *"AI-Powered Threat Detection in SOC"* to **150+ students** |
 
-> **Log Analysis & Threat Detection Lab**
+&lt;/div&gt;
 
-**Stack:** `Splunk` `Wazuh` `VirtualBox` `Python`
-
-**Key Achievements:**
-- 📋 Monitored and correlated security logs across Splunk + Wazuh
-- 🚨 Created custom alert rules for brute force detection
-- 🔍 Investigated suspicious login attempts and anomalous behaviour
-- 🖥️ Simulated real SOC monitoring workflows
-
-[![View Project](https://img.shields.io/badge/GitHub-soc--home--lab-green?style=flat-square&logo=github)](https://github.com/ibu-cyx0/soc-home-lab)
-
-</details>
-
-<details>
-<summary><b>🌐 Project 4 — Network Traffic Analysis</b> &nbsp;<code>[ NETWORK ]</code></summary>
-<br/>
-
-> **Deep Packet Inspection & Protocol Forensics**
-
-**Stack:** `Wireshark` `Python` `Scapy`
-
-**Key Achievements:**
-- 📦 Captured and analyzed live network traffic using Wireshark
-- 🔬 Investigated HTTP, DNS, TCP protocols for anomalies
-- 🚩 Identified suspicious traffic behaviour and C2 patterns
-- 📝 Produced packet-level incident investigation reports
-
-[![View Project](https://img.shields.io/badge/GitHub-network--traffic--analysis-blue?style=flat-square&logo=github)](https://github.com/ibu-cyx0/network-traffic-analysis)
-
-</details>
-
----
+<br>
 
 ## `cat /var/log/activity.log`
 
-```
-[2026] ── Wazuh Ambassador Certificate of Recognition ........... [ RECOGNIZED ✓ ]
-[2026] ── SOC Analyst Internship — The Mind IT .................. [ COMPLETE ✓ ]
-[2026] ── Building Zero Trust Network Simulation Lab ............. [ COMPLETE ✓ ]
-[2026] ── CTI Automation Platform (OTX + AbuseIPDB + URLhaus) ... [ COMPLETE ✓ ]
-[2026] ── AI SOC Alert Triage System (Random Forest ML) ......... [ COMPLETE ✓ ]
-[2026] ── EC-Council Certified SOC Analyst (CSA) ................ [ CERTIFIED ✓ ]
-[2025] ── Splunk Core Certified User ............................ [ CERTIFIED ✓ ]
-[2025] ── Cisco Cyber Ops Associate ............................. [ CERTIFIED ✓ ]
-[2025] ── SOC Home Lab (Splunk + Wazuh) ......................... [ COMPLETE ✓ ]
-[2025] ── Network Traffic Analysis (Wireshark) .................. [ COMPLETE ✓ ]
-[2026] ── B.E. Cyber Security — Paavai Engineering College ....... [ COMPLETE ✓ ]
+```text
+[2026] ──► Wazuh Ambassador Certificate of Recognition .................... [ RECOGNIZED ✓ ]
+[2026] ──► SOC Analyst Internship — The Mind IT (Splunk & Wazuh) .......... [ COMPLETE   ✓ ]
+[2026] ──► Zero Trust Network Lab (NIST SP 800-207 · 13 pfSense Rules) .... [ COMPLETE   ✓ ]
+[2026] ──► CTI Automation Platform (OTX + AbuseIPDB + URLhaus) ............ [ COMPLETE   ✓ ]
+[2026] ──► AI SOC Alert Triage System (98.5% Acc · 0.99 ROC-AUC) .......... [ COMPLETE   ✓ ]
+[2026] ──► TryHackMe Global Ranking: Top 5% (50+ Rooms Completed) ......... [ ACTIVE     ✓ ]
+[2026] ──► EC-Council Certified SOC Analyst (CSA) ......................... [ CERTIFIED  ✓ ]
+[2026] ──► B.E. Cyber Security — Paavai Engineering College ............... [ COMPLETE   ✓ ]
+[2025] ──► Published Threat Detection Research — IJARIIT Vol. 11, Issue 1 . [ PUBLISHED  ✓ ]
+[2025] ──► Splunk Core Certified User & Cisco CyberOps Associate .......... [ CERTIFIED  ✓ ]
+[2025] ──► SOC Home Lab (Splunk + Wazuh) & Wireshark Traffic Forensics .... [ COMPLETE   ✓ ]
 ```
 
----
+<br>
 
-<div align="center">
+&lt;div align=&quot;center&quot;&gt;
 
-```
+```text
 ╔═══════════════════════════════════════════════════════╗
-║  "Attackers only need to be right once.              ║
-║   Defenders need to be right every time."            ║
-║                                    — Blue Team Code  ║
+║  "Attackers only need to be right once.               ║
+║   Defenders need to be right every time."             ║
+║                                    — Blue Team Code   ║
 ╚═══════════════════════════════════════════════════════╝
 ```
 
-</div>
+&lt;/div&gt;
