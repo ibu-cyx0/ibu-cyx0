@@ -5,12 +5,12 @@
 <line x1="0.5" y1="28" x2="489.5" y2="28" stroke="#1d3b2a"/>
 <circle cx="16" cy="14" r="4.5" fill="#ff5f56"/><circle cx="32" cy="14" r="4.5" fill="#ffbd2e"/><circle cx="48" cy="14" r="4.5" fill="#27c93f"/>
 <text x="245.0" y="17.5" text-anchor="middle" font-size="10" fill="#86b79b">ibu-cyx0 / contribution-stats</text>
-<g class="t" style="animation-delay:0.10s"><rect x="14.0" y="40.0" width="227.0" height="69.3" rx="6" fill="#0b1d13" stroke="#1d3b2a"/><text x="24.0" y="55.0" font-size="9" fill="#86b79b">current streak</text><text x="24.0" y="85.8" font-size="22" font-weight="bold" fill="#4ade80">1<tspan font-size="11" font-weight="normal" fill="#86b79b"> day</tspan></text><text x="24.0" y="102.3" font-size="8.5" fill="#86b79b">Oct 23</text></g>
+<g class="t" style="animation-delay:0.10s"><rect x="14.0" y="40.0" width="227.0" height="69.3" rx="6" fill="#0b1d13" stroke="#1d3b2a"/><text x="24.0" y="55.0" font-size="9" fill="#86b79b">current streak</text><text x="24.0" y="85.8" font-size="22" font-weight="bold" fill="#4ade80">2<tspan font-size="11" font-weight="normal" fill="#86b79b"> days</tspan></text><text x="24.0" y="102.3" font-size="8.5" fill="#86b79b">Oct 23 – Oct 24</text></g>
 <g class="t" style="animation-delay:0.18s"><rect x="249.0" y="40.0" width="227.0" height="69.3" rx="6" fill="#0b1d13" stroke="#1d3b2a"/><text x="259.0" y="55.0" font-size="9" fill="#86b79b">longest streak</text><text x="259.0" y="85.8" font-size="22" font-weight="bold" fill="#d9f2e3">7<tspan font-size="11" font-weight="normal" fill="#86b79b"> days</tspan></text><text x="259.0" y="102.3" font-size="8.5" fill="#86b79b">Sep 29 – Oct 5</text></g>
-<g class="t" style="animation-delay:0.26s"><rect x="14.0" y="117.3" width="227.0" height="69.3" rx="6" fill="#0b1d13" stroke="#1d3b2a"/><text x="24.0" y="132.3" font-size="9" fill="#86b79b">300</text><text x="24.0" y="163.1" font-size="22" font-weight="bold" fill="#d9f2e3">130<tspan font-size="11" font-weight="normal" fill="#86b79b"></tspan></text><text x="24.0" y="179.7" font-size="8.5" fill="#86b79b">in the last year</text></g>
-<g class="t" style="animation-delay:0.34s"><rect x="249.0" y="117.3" width="227.0" height="69.3" rx="6" fill="#0b1d13" stroke="#1d3b2a"/><text x="259.0" y="132.3" font-size="9" fill="#86b79b">active days</text><text x="259.0" y="163.1" font-size="22" font-weight="bold" fill="#d9f2e3">26<tspan font-size="11" font-weight="normal" fill="#86b79b"> / 365</tspan></text><text x="259.0" y="179.7" font-size="8.5" fill="#86b79b">7% of the year</text></g>
+<g class="t" style="animation-delay:0.26s"><rect x="14.0" y="117.3" width="227.0" height="69.3" rx="6" fill="#0b1d13" stroke="#1d3b2a"/><text x="24.0" y="132.3" font-size="9" fill="#86b79b">300</text><text x="24.0" y="163.1" font-size="22" font-weight="bold" fill="#d9f2e3">131<tspan font-size="11" font-weight="normal" fill="#86b79b"></tspan></text><text x="24.0" y="179.7" font-size="8.5" fill="#86b79b">in the last year</text></g>
+<g class="t" style="animation-delay:0.34s"><rect x="249.0" y="117.3" width="227.0" height="69.3" rx="6" fill="#0b1d13" stroke="#1d3b2a"/><text x="259.0" y="132.3" font-size="9" fill="#86b79b">active days</text><text x="259.0" y="163.1" font-size="22" font-weight="bold" fill="#d9f2e3">27<tspan font-size="11" font-weight="normal" fill="#86b79b"> / 365</tspan></text><text x="259.0" y="179.7" font-size="8.5" fill="#86b79b">7% of the year</text></g>
 <g class="t" style="animation-delay:0.42s"><rect x="14.0" y="194.7" width="227.0" height="69.3" rx="6" fill="#0b1d13" stroke="#1d3b2a"/><text x="24.0" y="209.7" font-size="9" fill="#86b79b">best day</text><text x="24.0" y="240.4" font-size="22" font-weight="bold" fill="#d9f2e3">23<tspan font-size="11" font-weight="normal" fill="#86b79b"></tspan></text><text x="24.0" y="257.0" font-size="8.5" fill="#86b79b">Oct 2</text></g>
-<g class="t" style="animation-delay:0.50s"><rect x="249.0" y="194.7" width="227.0" height="69.3" rx="6" fill="#0b1d13" stroke="#1d3b2a"/><text x="259.0" y="209.7" font-size="9" fill="#86b79b">avg / active day</text><text x="259.0" y="240.4" font-size="22" font-weight="bold" fill="#d9f2e3">5.0<tspan font-size="11" font-weight="normal" fill="#86b79b"></tspan></text><text x="259.0" y="257.0" font-size="8.5" fill="#86b79b">contributions</text></g>
+<g class="t" style="animation-delay:0.50s"><rect x="249.0" y="194.7" width="227.0" height="69.3" rx="6" fill="#0b1d13" stroke="#1d3b2a"/><text x="259.0" y="209.7" font-size="9" fill="#86b79b">avg / active day</text><text x="259.0" y="240.4" font-size="22" font-weight="bold" fill="#d9f2e3">4.9<tspan font-size="11" font-weight="normal" fill="#86b79b"></tspan></text><text x="259.0" y="257.0" font-size="8.5" fill="#86b79b">contributions</text></g>
 <rect x="14" y="272.0" width="462" height="134.0" rx="6" fill="#0b1d13" stroke="#1d3b2a"/>
 <text x="24" y="287.0" font-size="9" fill="#86b79b">contributions / month</text>
 <rect class="b" style="animation-delay:0.40s" x="34.9" y="386.0" width="22.4" height="2.0" rx="2" fill="#14532d"/>
@@ -23,19 +23,19 @@
 <text x="154.6" y="399.0" font-size="8" text-anchor="middle" fill="#86b79b">F</text>
 <rect class="b" style="animation-delay:0.60s" x="179.5" y="386.0" width="22.4" height="2.0" rx="2" fill="#16a34a"/>
 <text x="190.8" y="399.0" font-size="8" text-anchor="middle" fill="#86b79b">M</text>
-<rect class="b" style="animation-delay:0.65s" x="215.7" y="384.1" width="22.4" height="3.9" rx="2" fill="#16a34a"/>
+<rect class="b" style="animation-delay:0.65s" x="215.7" y="384.2" width="22.4" height="3.8" rx="2" fill="#16a34a"/>
 <text x="226.9" y="399.0" font-size="8" text-anchor="middle" fill="#86b79b">A</text>
 <rect class="b" style="animation-delay:0.70s" x="251.9" y="386.0" width="22.4" height="2.0" rx="2" fill="#14532d"/>
 <text x="263.1" y="399.0" font-size="8" text-anchor="middle" fill="#86b79b">M</text>
-<rect class="b" style="animation-delay:0.75s" x="288.0" y="373.5" width="22.4" height="14.5" rx="2" fill="#16a34a"/>
+<rect class="b" style="animation-delay:0.75s" x="288.0" y="373.7" width="22.4" height="14.3" rx="2" fill="#16a34a"/>
 <text x="299.2" y="399.0" font-size="8" text-anchor="middle" fill="#86b79b">J</text>
 <rect class="b" style="animation-delay:0.80s" x="324.2" y="386.0" width="22.4" height="2.0" rx="2" fill="#14532d"/>
 <text x="335.4" y="399.0" font-size="8" text-anchor="middle" fill="#86b79b">J</text>
 <rect class="b" style="animation-delay:0.85s" x="360.4" y="386.0" width="22.4" height="2.0" rx="2" fill="#16a34a"/>
 <text x="371.6" y="399.0" font-size="8" text-anchor="middle" fill="#86b79b">A</text>
-<rect class="b" style="animation-delay:0.90s" x="396.5" y="373.5" width="22.4" height="14.5" rx="2" fill="#16a34a"/>
+<rect class="b" style="animation-delay:0.90s" x="396.5" y="373.7" width="22.4" height="14.3" rx="2" fill="#16a34a"/>
 <text x="407.7" y="399.0" font-size="8" text-anchor="middle" fill="#86b79b">S</text>
 <rect class="b" style="animation-delay:0.95s" x="432.7" y="300.0" width="22.4" height="88.0" rx="2" fill="#4ade80"/>
 <text x="443.9" y="399.0" font-size="8" text-anchor="middle" fill="#86b79b">O</text>
-<text x="443.9" y="296.0" font-size="8.5" text-anchor="middle" fill="#4ade80">91</text>
+<text x="443.9" y="296.0" font-size="8.5" text-anchor="middle" fill="#4ade80">92</text>
 </svg>
